@@ -13,7 +13,7 @@ Below are the path
 
 ```On Mac/Linux: ~/.aws/credentials```
 
-and file content 
+paste below content in credetials file and replace the placeholder with your keys
 ```agsl
 [default]
 aws_access_key_id = <YOUR_ACCESS_KEY>
